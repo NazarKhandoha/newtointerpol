@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3", "Lab3\Lab3.csproj", "{67C5C98B-A300-41C1-AAB7-967349F3F6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafic", "..\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\Grafic.csproj", "{CF8DB904-A83F-4A4E-A3E1-0260C0E2842D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadiostaionLaba2", "..\ПМ-32\Частина 2\Візуальне\radiostation\Радіостанції\RadiostaionLaba2.csproj", "{1C5668CC-6172-4C20-B705-B2A49872D7F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radiostatiom", "..\ПМ-32\Частина 2\Documents\Visual Studio 2013\Projects\RadiostationLaba2\Радіостанції\Radiostatiom.csproj", "{58B062CD-42D2-4B08-9576-617A535C4876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba4", "..\ПМ-32\Частина 2\Візуальне\Lab4\Lab3\Laba4.csproj", "{2172FED9-CD75-412B-AFD8-3FDA67475F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Графіки фунцій", "..\ПМ-32\Частина 2\Візуальне\graphics\Графіки фунцій\Графіки фунцій.csproj", "{534882C3-0D20-4DE7-93A5-A48F63A574B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67C5C98B-A300-41C1-AAB7-967349F3F6B9}.Debug|x86.ActiveCfg = Debug|x86
+		{67C5C98B-A300-41C1-AAB7-967349F3F6B9}.Debug|x86.Build.0 = Debug|x86
+		{67C5C98B-A300-41C1-AAB7-967349F3F6B9}.Release|x86.ActiveCfg = Release|x86
+		{67C5C98B-A300-41C1-AAB7-967349F3F6B9}.Release|x86.Build.0 = Release|x86
+		{CF8DB904-A83F-4A4E-A3E1-0260C0E2842D}.Debug|x86.ActiveCfg = Debug|x86
+		{CF8DB904-A83F-4A4E-A3E1-0260C0E2842D}.Debug|x86.Build.0 = Debug|x86
+		{CF8DB904-A83F-4A4E-A3E1-0260C0E2842D}.Release|x86.ActiveCfg = Release|x86
+		{CF8DB904-A83F-4A4E-A3E1-0260C0E2842D}.Release|x86.Build.0 = Release|x86
+		{1C5668CC-6172-4C20-B705-B2A49872D7F7}.Debug|x86.ActiveCfg = Debug|x86
+		{1C5668CC-6172-4C20-B705-B2A49872D7F7}.Debug|x86.Build.0 = Debug|x86
+		{1C5668CC-6172-4C20-B705-B2A49872D7F7}.Release|x86.ActiveCfg = Release|x86
+		{1C5668CC-6172-4C20-B705-B2A49872D7F7}.Release|x86.Build.0 = Release|x86
+		{58B062CD-42D2-4B08-9576-617A535C4876}.Debug|x86.ActiveCfg = Debug|x86
+		{58B062CD-42D2-4B08-9576-617A535C4876}.Debug|x86.Build.0 = Debug|x86
+		{58B062CD-42D2-4B08-9576-617A535C4876}.Release|x86.ActiveCfg = Release|x86
+		{58B062CD-42D2-4B08-9576-617A535C4876}.Release|x86.Build.0 = Release|x86
+		{2172FED9-CD75-412B-AFD8-3FDA67475F0C}.Debug|x86.ActiveCfg = Debug|x86
+		{2172FED9-CD75-412B-AFD8-3FDA67475F0C}.Debug|x86.Build.0 = Debug|x86
+		{2172FED9-CD75-412B-AFD8-3FDA67475F0C}.Release|x86.ActiveCfg = Release|x86
+		{2172FED9-CD75-412B-AFD8-3FDA67475F0C}.Release|x86.Build.0 = Release|x86
+		{534882C3-0D20-4DE7-93A5-A48F63A574B9}.Debug|x86.ActiveCfg = Debug|x86
+		{534882C3-0D20-4DE7-93A5-A48F63A574B9}.Debug|x86.Build.0 = Debug|x86
+		{534882C3-0D20-4DE7-93A5-A48F63A574B9}.Release|x86.ActiveCfg = Release|x86
+		{534882C3-0D20-4DE7-93A5-A48F63A574B9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

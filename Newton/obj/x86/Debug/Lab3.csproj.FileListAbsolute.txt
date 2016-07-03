@@ -1,0 +1,58 @@
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Чисельні методи\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Чисельні методи\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\Lab3.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\Lab3.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\Lab3.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\Lab3.pdb
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\Lab3.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\Lab3.pdb
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\Lab3.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\Lab3.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\3 курс\Чисельні методи\Lab3\Lab3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\3 курс\Чисельні методи\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\3 курс\Чисельні методи\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original\Lab3\Lab3\obj\x86\Debug\Lab3.exe
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original\Lab3\Lab3\obj\x86\Debug\Lab3.pdb
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original\Lab3\Lab3\obj\x86\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original\Lab3\Lab3\obj\x86\Debug\Lab3.Form1.resources
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original\Lab3\Lab3\obj\x86\Debug\Lab3.Properties.Resources.resources
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original\Lab3\Lab3\obj\x86\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original - Копія\Lab3\Lab3\obj\x86\Debug\Lab3.exe
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original - Копія\Lab3\Lab3\obj\x86\Debug\Lab3.pdb
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original - Копія\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original - Копія\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original - Копія\Lab3\Lab3\obj\x86\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original - Копія\Lab3\Lab3\obj\x86\Debug\Lab3.Form1.resources
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original - Копія\Lab3\Lab3\obj\x86\Debug\Lab3.Properties.Resources.resources
+C:\Users\Maryan\Desktop\Чисмет\Lab 3 original - Копія\Lab3\Lab3\obj\x86\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\Назар\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.exe
+C:\Users\Назар\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.pdb
+C:\Users\Назар\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Назар\Desktop\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Назар\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Назар\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.Form1.resources
+C:\Users\Назар\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.Properties.Resources.resources
+C:\Users\Назар\Desktop\Lab3\Lab3\obj\x86\Debug\Lab3.csproj.GenerateResource.Cache
+D:\Прикладна Математика\ПМ-32\Lab3\Lab3\obj\x86\Debug\Lab3.exe
+D:\Прикладна Математика\ПМ-32\Lab3\Lab3\obj\x86\Debug\Lab3.pdb
+D:\Прикладна Математика\ПМ-32\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Прикладна Математика\ПМ-32\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Прикладна Математика\ПМ-32\Lab3\Lab3\obj\x86\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\Прикладна Математика\ПМ-32\Lab3\Lab3\obj\x86\Debug\Lab3.Form1.resources
+D:\Прикладна Математика\ПМ-32\Lab3\Lab3\obj\x86\Debug\Lab3.Properties.Resources.resources
+D:\Прикладна Математика\ПМ-32\Lab3\Lab3\obj\x86\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\NazarRock\Desktop\ProjectsforGit\Lab 3 Розрах 2 Виправлена\Lab3\Lab3\obj\x86\Debug\Lab3.exe
+C:\Users\NazarRock\Desktop\ProjectsforGit\Lab 3 Розрах 2 Виправлена\Lab3\Lab3\obj\x86\Debug\Lab3.pdb
+C:\Users\NazarRock\Desktop\ProjectsforGit\Lab 3 Розрах 2 Виправлена\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\NazarRock\Desktop\ProjectsforGit\Lab 3 Розрах 2 Виправлена\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\NazarRock\Desktop\ProjectsforGit\Lab 3 Розрах 2 Виправлена\Lab3\Lab3\obj\x86\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\NazarRock\Desktop\ProjectsforGit\Lab 3 Розрах 2 Виправлена\Lab3\Lab3\obj\x86\Debug\Lab3.Form1.resources
+C:\Users\NazarRock\Desktop\ProjectsforGit\Lab 3 Розрах 2 Виправлена\Lab3\Lab3\obj\x86\Debug\Lab3.Properties.Resources.resources
+C:\Users\NazarRock\Desktop\ProjectsforGit\Lab 3 Розрах 2 Виправлена\Lab3\Lab3\obj\x86\Debug\Lab3.csproj.GenerateResource.Cache
